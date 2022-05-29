@@ -1,3 +1,6 @@
+# Beautiful Array
+
+## Description
 An array nums of length n is beautiful if:
 
 - nums is a permutation of the integers in the range [1, n].
