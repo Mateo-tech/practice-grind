@@ -31,5 +31,6 @@ Constraints:
 - Space: ?
 
 ### Binary Reverse Sort
-- Essentially the same as above
-- 
+- Essentially the same as above, just cooler
+- Time: ?
+- Space: ?
